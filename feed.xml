@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias Destacadas</title>
+        <link>https://elpais.com/ultimas-noticias/</link>
+        <description>Las noticias más relevantes y recientes del día.</description>
+        <language>es</language>
+        <lastBuildDate>Sun, 08 Dec 2024 20:00:00 GMT</lastBuildDate>
+
+        <!-- Primera noticia -->
+        <item>
+            <title>Los rebeldes de Siria derrocan al régimen de El Asad tras 13 años de guerra</title>
+            <link>https://elpais.com/internacional/2024-12-08/los-rebeldes-derriban-el-regimen-de-el-asad-tras-13-anos-de-guerra-y-el-dirigente-huye-de-damasco-en-avion.html</link>
+            <description>Después de más de una década de conflicto, el régimen de Bashar al Asad cae y el dirigente huye de Damasco en avión.</description>
+            <pubDate>Sun, 08 Dec 2024 10:12:00 GMT</pubDate>
+            <guid>https://elpais.com/internacional/2024-12-08/los-rebeldes-derriban-el-regimen-de-el-asad-tras-13-anos-de-guerra-y-el-dirigente-huye-de-damasco-en-avion.html</guid>
+            <category>Internacional</category>
+        </item>
+
+        <!-- Segunda noticia -->
+        <item>
+            <title>https://elpais.com/espana/2024-12-08/el-barrio-de-las-3000-viviendas-el-trastero-de-sevilla-que-cada-ano-esta-peor.html</title>
+            <link>https://www.noticiasmiciudad.com/sociedad/3000-viviendas-sevilla</link>
+            <description>El histórico barrio sevillano enfrenta más problemas sociales y de infraestructura, empeorando su situación año tras año.</description>
+            <pubDate>Sun, 08 Dec 2024 05:40:00 GMT</pubDate>
+            <guid>https://elpais.com/espana/2024-12-08/el-barrio-de-las-3000-viviendas-el-trastero-de-sevilla-que-cada-ano-esta-peor.html</guid>
+            <category>Sociedad</category>
+        </item>
+
+        <!-- Tercera noticia -->
+        <item>
+            <title>La Aemet activa el aviso rojo por nieve en Aragón, Asturias, Castilla y León, Cataluña y Navarra</title>
+            <link>https://elpais.com/espana/2024-12-08/la-aemet-activa-el-aviso-rojo-por-nieve-en-aragon-asturias-castilla-y-leon-cataluna-y-navarra.html</link>
+            <description>Fuertes nevadas obligan a activar el aviso rojo en varias comunidades del norte de España debido a condiciones extremas.</description>
+            <pubDate>Sun, 08 Dec 2024 11:13:00 GMT</pubDate>
+            <guid>https://elpais.com/espana/2024-12-08/la-aemet-activa-el-aviso-rojo-por-nieve-en-aragon-asturias-castilla-y-leon-cataluna-y-navarra.html</guid>
+            <category>Clima</category>
+        </item>
+
+    </channel>
+</rss>
